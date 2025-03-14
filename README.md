@@ -115,12 +115,11 @@ Rscript plot_HO_MD.R
 #### **👨‍🔬 Auteurs et Licence :** 
 
 📌 Auteur : MANOUR INES & BENHAMOUCHE SOFIA
+
 📌 Date : Février 2025
+
 📌 Licence : Master 1 BioInformatique Université Paris Cité 
 
 🚀 Projet Open-Source, modifications et contributions bienvenues !
 
 
-Les scripts Python nécessitent **`numpy`** et **`matplotlib`** :  
-```bash
-pip install numpy matplotlib
